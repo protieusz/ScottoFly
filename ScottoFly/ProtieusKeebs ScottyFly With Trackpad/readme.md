@@ -20,6 +20,10 @@ Final product pics.
 
 ![IMG_9249](https://github.com/protieusz/ScottoFly/assets/118025702/c0789a57-58b7-476e-8a1f-5bce9e84db9a)
 
+![IMG_9276](https://github.com/protieusz/ScottoFly/assets/118025702/e6b8743d-21c8-4119-a4ae-7330ca5a0ea2)
+
+![IMG_9277](https://github.com/protieusz/ScottoFly/assets/118025702/4513fad3-284a-4e91-ab0c-00bc1c4e756f)
+
 ![IMG_9250](https://github.com/protieusz/ScottoFly/assets/118025702/79fa7f6a-674b-416f-ba9b-c58431b58880)
 
 ![IMG_9246](https://github.com/protieusz/ScottoFly/assets/118025702/720e3ce1-5bc6-44bc-8f15-039a92f0fdca)
