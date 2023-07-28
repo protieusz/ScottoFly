@@ -1,6 +1,6 @@
 23 July 2023
 
-This the PK-S. S stands for small. Stay tuned for a XL, larger trackpad 65mm version coming soon in a the form a pcb.
+This is the PK-S. S stands for small. Stay tuned for a XL, larger trackpad 65mm version coming soon in a the form a pcb.
 This is my version of ScottoFly with added 2 extra thumb keys near the Azoteq 43mm trackpad that acts as left and right click even though the Azoteq supports gestures but I added it just in case.
 The idea came from Daruneko's Ieneko42c that has the same trackpad.  Source code for the trackpad was borrowed from him as well.
 Azoteq 43mm trackpad can be purchased from mouser.
